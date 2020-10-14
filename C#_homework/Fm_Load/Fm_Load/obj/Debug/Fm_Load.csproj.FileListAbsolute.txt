@@ -1,0 +1,11 @@
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\bin\Debug\Fm_Load.exe.config
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\bin\Debug\Fm_Load.exe
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\bin\Debug\Fm_Load.pdb
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\obj\Debug\Fm_Load.csprojAssemblyReference.cache
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\obj\Debug\Fm_Load.Form1.resources
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\obj\Debug\Fm_Load.Properties.Resources.resources
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\obj\Debug\Fm_Load.csproj.GenerateResource.cache
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\obj\Debug\Fm_Load.csproj.CoreCompileInputs.cache
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\obj\Debug\Fm_Load.exe
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\obj\Debug\Fm_Load.pdb
+C:\Users\yanke\Desktop\III_Practice\III_Practice\fmMain\Fm_Load\Fm_Load\obj\Debug\Fm_Load.Form2.resources

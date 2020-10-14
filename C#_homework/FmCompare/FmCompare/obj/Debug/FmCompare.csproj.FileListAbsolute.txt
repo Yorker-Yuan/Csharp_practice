@@ -1,0 +1,10 @@
+C:\Users\yanke\Desktop\III_Practice\III_Practice\FmCompare\FmCompare\bin\Debug\FmCompare.exe.config
+C:\Users\yanke\Desktop\III_Practice\III_Practice\FmCompare\FmCompare\bin\Debug\FmCompare.exe
+C:\Users\yanke\Desktop\III_Practice\III_Practice\FmCompare\FmCompare\bin\Debug\FmCompare.pdb
+C:\Users\yanke\Desktop\III_Practice\III_Practice\FmCompare\FmCompare\obj\Debug\FmCompare.csprojAssemblyReference.cache
+C:\Users\yanke\Desktop\III_Practice\III_Practice\FmCompare\FmCompare\obj\Debug\FmCompare.Form1.resources
+C:\Users\yanke\Desktop\III_Practice\III_Practice\FmCompare\FmCompare\obj\Debug\FmCompare.Properties.Resources.resources
+C:\Users\yanke\Desktop\III_Practice\III_Practice\FmCompare\FmCompare\obj\Debug\FmCompare.csproj.GenerateResource.cache
+C:\Users\yanke\Desktop\III_Practice\III_Practice\FmCompare\FmCompare\obj\Debug\FmCompare.csproj.CoreCompileInputs.cache
+C:\Users\yanke\Desktop\III_Practice\III_Practice\FmCompare\FmCompare\obj\Debug\FmCompare.exe
+C:\Users\yanke\Desktop\III_Practice\III_Practice\FmCompare\FmCompare\obj\Debug\FmCompare.pdb
